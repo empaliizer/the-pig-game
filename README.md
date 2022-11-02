@@ -10,3 +10,6 @@ A player can choose to stop and select "KEEP SCORE". Then the points in ROUND PO
 The first player to reach 100 points on "TOTAL SCORE" wins the game. You have to press new game to start a new round. 
 
 
+Here is the game if you want to try it out: 
+https://63629fb835c96831ca734a95--thunderous-melba-ea86e6.netlify.app/
+
