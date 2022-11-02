@@ -11,4 +11,4 @@ The first player to reach 100 points on "TOTAL SCORE" wins the game. You have to
 
 
 Here is the game if you want to try it out: 
-https://63629fb835c96831ca734a95--thunderous-melba-ea86e6.netlify.app/
+https://6362ab4f48363a3fda64b275--incandescent-pony-597e6f.netlify.app/
